@@ -1,4 +1,4 @@
-# Yulu-Case-Study-Bike-Sharing-Analysis-with-Hypothesis-Testing-
+# Yulu
 Bike sharing data analysis using Python &amp; hypothesis testing – uncovering seasonality, weather impact, and customer behavior for Yulu
 # 🚲 Yulu Case Study – Bike Sharing Data Analysis with Hypothesis Testing  
 
